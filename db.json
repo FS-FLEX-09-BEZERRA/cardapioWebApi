@@ -1,0 +1,53 @@
+  { 
+    "produtos": [
+    {
+      "id": 1,
+      "desc": "Temaki Hot",
+      "img": "temakihot",
+      "valor": 39.90,
+      "categoria": "oferta"
+    },
+    {
+      "id": 2,
+      "desc": "Temaki Skin",
+      "img": "temakiskin",
+      "valor": 39.90,
+      "categoria": "temakis"
+    },
+    {
+      "id": 3,
+      "desc": "Temaki Salmão",
+      "img": "temakisalmao",
+      "valor": 39.90,
+      "categoria": "temakis"
+    },
+    {
+      "id": 4,
+      "desc": "Temaki Camarão",
+      "img": "temakicam",
+      "valor": 39.90,
+      "categoria": "temakis"
+    },
+    {
+      "id": 5,
+      "desc": "Combinado 30 peças",
+      "img": "combinado1",
+      "valor": 40.00,
+      "categoria": "combinados"
+    },
+    {
+      "id": 6,
+      "desc": "Combinado 40 peças",
+      "img": "combinado2",
+      "valor": 50.00,
+      "categoria": "combinados"
+    },
+    {
+      "id": 7,
+      "desc": "Combinado 60 peças",
+      "img": "combinado3",
+      "valor": 70.00,
+      "categoria": "combinados"
+    }
+  ]
+}
