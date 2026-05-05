@@ -1,4 +1,11 @@
 {
+  "name": "cardapiowebapi",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "npx json-server --watch db.json --port 3000"
+  },
   "dependencies": {
     "json-server": "^1.0.0-beta.15"
   }
