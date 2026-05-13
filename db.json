@@ -49,5 +49,11 @@
       "valor": 70.00,
       "categoria": "combinados"
     }
-  ]
+  ],
+    "usuarios": [
+      { 
+        "email": "queiroz.14@hotmail.com",
+        "password": "123"
+      }
+    ] 
 }
