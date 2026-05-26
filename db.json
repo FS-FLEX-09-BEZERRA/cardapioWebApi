@@ -53,7 +53,8 @@
     "usuarios": [
       { 
         "email": "queiroz.14@hotmail.com",
-        "password": "123"
+        "password": "123",
+        "cargo": "Admin"
       }
     ] 
 }
